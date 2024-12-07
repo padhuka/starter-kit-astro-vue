@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Astro - Vue - Vuetify - TailwindCSS - Typescript - Prettier - Vite Starter Kit: Basics
 
 - Astro
 - Vue
